@@ -5,7 +5,7 @@
 - **Duver Peñaloza**  
   Frecuente en el desarrollo y actualización de bases de datos SQL.
 
-- **David Basto**  
+- **Cristian Basto**  
   Mantiene al día la documentación requerida para el proyecto.
 
 - **Jesús Álvarez**  
