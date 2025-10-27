@@ -16,6 +16,12 @@ inventario = [
         "tipo": "Válvula",
         "ubicacion": "Tanque A",
         "lecturas": [10.2, 9.8, 10.5]
+    },
+     {
+        "id": "S-401",
+        "tipo": "Sensor",
+        "ubicacion": "Planta_Norte", 
+        "lecturas": [45.0, 47.2, 46.8]
     }
 ]
 
